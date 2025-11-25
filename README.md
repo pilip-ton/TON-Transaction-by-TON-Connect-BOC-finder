@@ -50,5 +50,7 @@ Hash: 66e36b29...47dc9374
 ## 💡 Tips
 
 -   **Not found?** Increase `--limit` or wait 30 seconds
--   **API key:** Free at [tonconsole.com](https://tonconsole.com)
+-   **Get example BOC:** Send test transaction at [send-ton-get-boc](https://pilip-ton.github.io/send-ton-get-boc/)
+-   **API key:** Free via [@toncenter](https://t.me/toncenter) Telegram bot or [tonconsole.com](https://tonconsole.com)
+-   **Service:** Uses [TONCenter API](https://toncenter.com/api/v2/) (official public RPC)
 -   **TEP-467:** [Normalized Hash](https://github.com/ton-blockchain/TEPs/blob/master/text/0467-normalized-message-hash.md)
